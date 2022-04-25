@@ -32,7 +32,6 @@ Mods Added
 * Morpheus
 * Mouse Tweaks
 * Origin
-* HBMs Nuclear Tech
 * Storage Drawers
 * Thaumcraft
 * Thermal Dynamics
@@ -41,3 +40,33 @@ Mods Added
 * Tinkers Construct
 * Waystones
 * Ztones
+
+Version 0.2
+
+* Enderio Unoffical
+* EnderCore
+* NetherOres
+* Controlling
+* Inventory Tweaks
+* AI Improvments
+* FoamFix
+* BetterFPS
+* Ding
+* MmmMmmMmmMmm
+* Openblocks
+* Openmodslib
+* FPS Reducer
+* Unidict
+* OAuth
+* Waila
+* Waila Harvestability
+* Waila Plugins
+* ModTweaker
+* Better Questing
+* Better Questing - Standard Expansion
+* Better Placement
+* Better Sprinting
+* Fast Leaf Decay
+* Crafting Tweaks
+* AppleCore
+* Pam's Harvestcraft
