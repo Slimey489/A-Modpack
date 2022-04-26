@@ -70,3 +70,4 @@ Version 0.2
 * Crafting Tweaks
 * AppleCore
 * Pam's Harvestcraft
+* ProjectE
