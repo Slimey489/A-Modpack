@@ -11,7 +11,6 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Need A Name",
-  "version": "0.1",
   "author": "",
   "files": [
     {
@@ -132,6 +131,11 @@
     {
       "projectID": 223628,
       "fileID": 2227552,
+      "required": true
+    },
+    {
+      "projectID": 226410,
+      "fileID": 2340786,
       "required": true
     },
     {
